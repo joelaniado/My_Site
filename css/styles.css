@@ -1,0 +1,54 @@
+/*Colors to be used:
+810000
+630000
+1b1717
+*/
+body {
+  margin-left: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 60%;
+}
+.bottom-container {
+  background-color: #630000;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.middle-container {
+  background-color: #810000;
+}
+
+p {
+  margin-bottom:  0;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 60%;
+  top: 50px;
+}
+.top-container {
+  background-color: #eeebdd;
+  margin-bottom: 0;
+  padding-top: 100px
+
+
+}
