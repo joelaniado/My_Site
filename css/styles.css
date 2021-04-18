@@ -15,7 +15,7 @@ body {
 }
 .bottom-container {
   background-color: #810000;
-  height: 7.5rem;
+  padding: 50px 0 20px;
 }
 
 .brain_img {
@@ -74,15 +74,21 @@ body {
 
 .copyright_footer {
   color: white;
-  margin-bottom: 0;
+  font-size: 0.75rem;
+  padding:20px 0;
+
 }
 
 .footer-link {
-  color: #630000;
-  padding: 2.5rem;
-  margin: 9rem auto 9rem;
+  color: #2B0101;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 
+.footer-link:hover {
+  color: white;
+}
 
 
 h1 {
